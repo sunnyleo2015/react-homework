@@ -126,11 +126,6 @@ var PreviewPage = React.createClass({
     }
 });
 
-
-
-
-
-
 var Content = React.createClass({
     render: function () {
         {
